@@ -3,22 +3,87 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1513574020644">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/android_hello_world/SimpleTodo/app/src/main/res/layout/activity_main.xml" timestamp="1511749157030">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/SimpleTodo/gradle.properties" timestamp="1467086767165">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="20" column="23" />
+        <mark key="^" line="20" column="23" />
+        <mark key="." line="20" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/ud851-Exercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" timestamp="1511928807305">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="32" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/ud851-Exercises/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" timestamp="1511929364561">
+        <mark key="[" line="34" column="39" />
+        <mark key="]" line="35" column="56" />
+        <mark key="." line="35" column="56" />
+        <mark key="^" line="35" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/SimpleTodo/app/src/main/java/com/example/honsby/simpletodo/MainActivity.java" timestamp="1467088837130">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
         <mark key="^" line="67" column="48" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BellyUptown/app/src/main/java/com/example/roberthonsby/bellyuptown/MainActivity.java" timestamp="1513618077224">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="10" column="45" />
-        <mark key="^" line="10" column="45" />
-        <mark key="." line="10" column="45" />
+      <file name="$USER_HOME$/AndroidStudioProjects/BellyUptown/app/src/main/java/com/example/roberthonsby/bellyuptown/MainActivity.java" timestamp="1513624055362">
+        <mark key="[" line="20" column="58" />
+        <mark key="]" line="21" column="34" />
+        <mark key="." line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/JustJava/app/src/main/java/com/example/android/justjava/MainActivity.java" timestamp="1513574752135">
+        <mark key="[" line="65" column="29" />
+        <mark key="]" line="65" column="29" />
+        <mark key="." line="65" column="29" />
+        <mark key="^" line="65" column="76" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BellyUptown/app/src/main/res/layout/activity_main.xml" timestamp="1513624060523">
+        <mark key="[" line="49" column="45" />
+        <mark key="]" line="50" column="42" />
+        <mark key="." line="50" column="42" />
+        <mark key="^" line="50" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/JustJava/app/src/main/res/values/strings.xml" timestamp="1513574733792">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="44" />
+        <mark key="." line="12" column="44" />
+        <mark key="^" line="12" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/FavoriteToys/app/src/main/res/layout/activity_main.xml" timestamp="1511926490512">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="43" />
+        <mark key="." line="11" column="43" />
+        <mark key="^" line="11" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/HappyBirthday/app/src/main/res/layout/activity_main.xml" timestamp="1513441897995">
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="32" column="31" />
+        <mark key="." line="32" column="31" />
+        <mark key="^" line="32" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/JustJava/app/src/main/res/values/styles.xml" timestamp="1513575948748">
         <mark key="[" line="6" column="45" />
         <mark key="]" line="6" column="45" />
         <mark key="." line="6" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/JustJava/app/src/main/res/layout/activity_main.xml" timestamp="1513575530930">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="31" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/PracticeSet2/app/src/main/res/layout/activity_main.xml" timestamp="1513558505173">
         <mark key="[" line="12" column="42" />
@@ -55,81 +120,16 @@
         <mark key="^" line="26" column="11" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/HappyBirthday/app/src/main/java/com/example/android/happybirthday/MainActivity.java" timestamp="1513440365522">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/udacity-exercises/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" timestamp="1511929653679">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="32" column="16" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1513574020644">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/android_hello_world/SimpleTodo/app/src/main/res/layout/activity_main.xml" timestamp="1511749157030">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="33" />
-        <mark key="." line="19" column="33" />
-        <mark key="^" line="19" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/SimpleTodo/gradle.properties" timestamp="1467086767165">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="20" column="23" />
-        <mark key="^" line="20" column="23" />
-        <mark key="." line="20" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/ud851-Exercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" timestamp="1511928807305">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="32" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/ud851-Exercises/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" timestamp="1511929364561">
-        <mark key="[" line="34" column="39" />
-        <mark key="]" line="35" column="56" />
-        <mark key="." line="35" column="56" />
-        <mark key="^" line="35" column="56" />
-      </file>
-      <file name="$USER_HOME$/workspace/JustJava/app/src/main/java/com/example/android/justjava/MainActivity.java" timestamp="1513574752135">
-        <mark key="[" line="65" column="29" />
-        <mark key="]" line="65" column="29" />
-        <mark key="." line="65" column="29" />
-        <mark key="^" line="65" column="76" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BellyUptown/app/src/main/res/layout/activity_main.xml" timestamp="1513619245294">
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="19" column="28" />
-        <mark key="." line="19" column="28" />
-        <mark key="^" line="19" column="28" />
-      </file>
-      <file name="$USER_HOME$/workspace/JustJava/app/src/main/res/values/strings.xml" timestamp="1513574733792">
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="44" />
-        <mark key="^" line="12" column="44" />
-      </file>
-      <file name="$USER_HOME$/workspace/FavoriteToys/app/src/main/res/layout/activity_main.xml" timestamp="1511926490512">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="43" />
-        <mark key="." line="11" column="43" />
-        <mark key="^" line="11" column="43" />
-      </file>
-      <file name="$USER_HOME$/workspace/HappyBirthday/app/src/main/res/layout/activity_main.xml" timestamp="1513441897995">
-        <mark key="[" line="32" column="29" />
-        <mark key="]" line="32" column="31" />
-        <mark key="." line="32" column="31" />
-        <mark key="^" line="32" column="31" />
-      </file>
-      <file name="$USER_HOME$/workspace/JustJava/app/src/main/res/layout/activity_main.xml" timestamp="1513575530930">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="31" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/HappyBirthday/app/src/main/java/com/example/android/happybirthday/MainActivity.java" timestamp="1513440365522">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1513463564427">
         <mark key="[" line="0" column="0" />
@@ -173,40 +173,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgR2VvCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IDk0NjEy</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxSZWxhdGl2ZUxheW91dAogICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSIxNmRwIj4KCiAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjI0c3AiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSIjMjkyOTI5IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudExlZnQ9InRydWUiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50Qm90dG9tPSJ0cnVlIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJCZWxseSBVcHRvd24iIC8+CgogICAgICAgIDxUZXh0VmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRSaWdodD0idHJ1ZSIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRCb3R0b209InRydWUiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iJCAtIE1leGljYW4tS29yZWFuIEZ1c2lvbiIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IiNjOWM5YzkiIC8+CgogICAgPC9SZWxhdGl2ZUxheW91dD4KCiAgICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iIzI5MjkyOSIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209IjRkcCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkxhaWQtYmFjayBjYWZlIGZvciBBc2lhbiwgTWV4aWNhbiAmYW1wOyBBbWVyaWNhbiBkaXNoZXMgbGlrZSBwb3JrLWJlbGx5IHRhY29zICZhbXA7IHRlbXB1cmEgb25pb24gcmluZ3MuIiAvPgoKICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSIjMjkyOTI5IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iNGRwIgogICAgICAgIGFuZHJvaWQ6dGV4dD0iQWRkcmVzczogMTkwMSBTYW4gUGFibG8gQXZlLCBPYWtsYW5kLCBDQSA5NDYxMiIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRMZWZ0PSJ0cnVlIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxMaW5lYXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRCb3R0b209InRydWUiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSI0ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRSaWdodD0idHJ1ZSIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRCb3R0b209InRydWUiCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSIxNmRwIgo=</text>
+        <text encoding="base64">ICAgICAgICA8L1JlbGF0aXZlTGF5b3V0Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8UmVsYXRpdmVMYXlvdXQKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iMTZkcCI+Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjI0c3AiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IiMyOTI5MjkiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSI0ZHAiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJCZWxseSBVcHRvd24iIC8+CgogICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDp0ZXh0PSIkIC0gTWV4aWNhbi1Lb3JlYW4gRnVzaW9uIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iMTZkcCIKICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iI2M5YzljOSIgLz4K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2J1cnJpdG8iCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IDk0NjEy</text>
       </register>
     </registers>
     <search>
