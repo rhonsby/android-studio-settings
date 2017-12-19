@@ -38,11 +38,11 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="67" column="48" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BellyUptown/app/src/main/java/com/example/roberthonsby/bellyuptown/MainActivity.java" timestamp="1513631114496">
-        <mark key="[" line="39" column="9" />
-        <mark key="]" line="41" column="20" />
-        <mark key="^" line="41" column="20" />
-        <mark key="." line="41" column="20" />
+      <file name="$USER_HOME$/AndroidStudioProjects/BellyUptown/app/src/main/java/com/example/roberthonsby/bellyuptown/MainActivity.java" timestamp="1513658131546">
+        <mark key="[" line="51" column="86" />
+        <mark key="]" line="51" column="86" />
+        <mark key="^" line="51" column="86" />
+        <mark key="." line="51" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/JustJava/app/src/main/java/com/example/android/justjava/MainActivity.java" timestamp="1513574752135">
         <mark key="[" line="65" column="29" />
@@ -181,8 +181,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID09IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBSYWRpb0dyb3VwIHJpZGVTaGFyaW5nUmFkaW9Hcm91cCA9IChSYWRpb0dyb3VwKSBmaW5kVmlld0J5SWQoUi5pZC5yaWRlX3NoYXJpbmdfY29tcGFueV9yYWRpb19ncm91cCk7Cg==</text>
@@ -209,7 +209,7 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>if (</text>
+        <text encoding="base64">ID09IA==</text>
       </register>
     </registers>
     <search>
