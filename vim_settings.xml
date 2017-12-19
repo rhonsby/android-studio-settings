@@ -32,11 +32,11 @@
         <mark key="." line="16" column="34" />
         <mark key="^" line="16" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/miwok/app/build.gradle" timestamp="1513702069472">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="23" />
-        <mark key="." line="3" column="23" />
-        <mark key="^" line="3" column="23" />
+      <file name="$USER_HOME$/workspace/miwok/app/build.gradle" timestamp="1513703739855">
+        <mark key="[" line="22" column="51" />
+        <mark key="]" line="22" column="52" />
+        <mark key="." line="22" column="52" />
+        <mark key="^" line="22" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/PracticeSet2/app/src/main/java/com/example/android/practiceset2/MainActivity.java" timestamp="1513558677708">
         <mark key="[" line="17" column="45" />
@@ -133,13 +133,20 @@
         <mark key="^" line="37" column="31" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/miwok/app/src/main/AndroidManifest.xml" timestamp="1513704368658" />
       <file name="$USER_HOME$/workspace/HappyBirthday/app/src/main/java/com/example/android/happybirthday/MainActivity.java" timestamp="1513440365522">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1513463564427">
+      <file name="/fragment.java" timestamp="1513704060785">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/miwok/app/src/main/res/layout/activity_numbers.xml" timestamp="1513704314444">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="9" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/ud851-Exercises/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml" timestamp="1511929086593">
         <mark key="[" line="22" column="13" />
@@ -185,37 +192,37 @@
         <text encoding="base64">ICAgICAgICBSYWRpb0dyb3VwIHJpZGVTaGFyaW5nUmFkaW9Hcm91cCA9IChSYWRpb0dyb3VwKSBmaW5kVmlld0J5SWQoUi5pZC5yaWRlX3NoYXJpbmdfY29tcGFueV9yYWRpb19ncm91cCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2FjdGl2aXR5Pgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>23</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8L2FjdGl2aXR5Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSYWRpb0dyb3VwIHJpZGVTaGFyaW5nUmFkaW9Hcm91cCA9IChSYWRpb0dyb3VwKSBmaW5kVmlld0J5SWQoUi5pZC5yaWRlX3NoYXJpbmdfY29tcGFueV9yYWRpb19ncm91cCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXJnZXRTZGtWZXJzaW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4iIC8+CgogICAgICAgICAgICAgICAgPGNhdGVnb3J5IGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuY2F0ZWdvcnkuTEFVTkNIRVIiIC8+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDaGVja0JveCByb2JlcnRMb2NhdGlvblNvdXRoU0ZDaGVja2JveCA9IChDaGVja0JveCkgZmluZFZpZXdCeUlkKFIuaWQucm9iZXJ0X2xpdmVfc291dGhfc2ZfY2hlY2tib3gpOwogICAgICAgIENoZWNrQm94IHJvYmVydExvY2F0aW9uT2FrbGFuZENoZWNrYm94ID0gKENoZWNrQm94KSBmaW5kVmlld0J5SWQoUi5pZC5yb2JlcnRfbGl2ZV9vYWtsYW5kX2NoZWNrYm94KTsKICAgICAgICBDaGVja0JveCByb2JlcnRMb2NhdGlvblZpc2FsaWFDaGVja2JveCA9IChDaGVja0JveCkgZmluZFZpZXdCeUlkKFIuaWQucm9iZXJ0X2xpdmVfdmlzYWxpYV9jaGVja2JveCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHNjb3JlKys7CiAgICAgICAgfQogICAgICAgIAogICAgICAgIAoKICAgICAgICByZXR1cm4gc2NvcmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSYWRpb0dyb3VwIHJpZGVTaGFyaW5nUmFkaW9Hcm91cCA9IChSYWRpb0dyb3VwKSBmaW5kVmlld0J5SWQoUi5pZC5yaWRlX3NoYXJpbmdfY29tcGFueV9yYWRpb19ncm91cCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobXVmYXNhU29uTmFtZUVkaXRUZXh0LmdldFRleHQoKS50b1N0cmluZygpLnRvTG93ZXJDYXNlKCkgPT0gInNpbWJhIikgewo=</text>
+        <text encoding="base64">ICAgICAgICBDaGVja0JveCByb2JlcnRMb2NhdGlvblNvdXRoU0ZDaGVja2JveCA9IChDaGVja0JveCkgZmluZFZpZXdCeUlkKFIuaWQucm9iZXJ0X2xpdmVfc291dGhfc2ZfY2hlY2tib3gpOwogICAgICAgIENoZWNrQm94IHJvYmVydExvY2F0aW9uT2FrbGFuZENoZWNrYm94ID0gKENoZWNrQm94KSBmaW5kVmlld0J5SWQoUi5pZC5yb2JlcnRfbGl2ZV9vYWtsYW5kX2NoZWNrYm94KTsKICAgICAgICBDaGVja0JveCByb2JlcnRMb2NhdGlvblZpc2FsaWFDaGVja2JveCA9IChDaGVja0JveCkgZmluZFZpZXdCeUlkKFIuaWQucm9iZXJ0X2xpdmVfdmlzYWxpYV9jaGVja2JveCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBFZGl0VGV4dCBtdWZhc2FTb25OYW1lRWRpdFRleHQgPSAoRWRpdFRleHQpIGZpbmRWaWV3QnlJZChSLmlkLmxpb25fa2luZ19zb25fZWRpdF90ZXh0KTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHNjb3JlKys7CiAgICAgICAgfQogICAgICAgIAogICAgICAgIAoKICAgICAgICByZXR1cm4gc2NvcmU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>23</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
