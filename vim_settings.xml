@@ -20,11 +20,11 @@
         <mark key="]" line="6" column="45" />
         <mark key="." line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/miwok/app/src/main/java/com/example/android/miwok/NumbersActivity.java" timestamp="1513741079184">
-        <mark key="[" line="32" column="68" />
-        <mark key="]" line="33" column="44" />
-        <mark key="." line="33" column="44" />
-        <mark key="^" line="33" column="44" />
+      <file name="$USER_HOME$/workspace/miwok/app/src/main/java/com/example/android/miwok/NumbersActivity.java" timestamp="1513788751486">
+        <mark key="[" line="31" column="86" />
+        <mark key="]" line="31" column="91" />
+        <mark key="." line="31" column="91" />
+        <mark key="^" line="31" column="91" />
       </file>
       <file name="$USER_HOME$/workspace/PracticeSet2/app/src/main/res/layout/activity_main.xml" timestamp="1513558505173">
         <mark key="[" line="12" column="42" />
@@ -164,10 +164,11 @@
       <file name="/fragment.java" timestamp="1513704538060">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/miwok/app/src/main/res/layout/activity_numbers.xml" timestamp="1513741103026">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/workspace/miwok/app/src/main/res/layout/activity_numbers.xml" timestamp="1513788818292">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/ud851-Exercises/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml" timestamp="1511929086593">
         <mark key="[" line="22" column="13" />
@@ -209,14 +210,14 @@
       <jump line="13" column="0" filename="$USER_HOME$/AndroidStudioProjects/BellyUptown/app/src/main/res/layout/activity_main.xml" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUZXh0VmlldyB3b3JkVmlldyA9IG5ldyBUZXh0Vmlldyh0aGlzKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgTGlzdFZpZXcgd29yZHNMaXN0VmlldyA9IChHcmlkVmlldw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZz0iIgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZz0iIgo=</text>
+      <register name="&quot;" type="4">
+        <text>simple_list_item_1</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB3b3Jkcwo=</text>
@@ -243,7 +244,7 @@
         <text encoding="base64">ICAgICAgICBUZXh0VmlldyB3b3JkVmlldyA9IG5ldyBUZXh0Vmlldyh0aGlzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>new ListView</text>
+        <text>simple_list_item_1</text>
       </register>
     </registers>
     <search>
