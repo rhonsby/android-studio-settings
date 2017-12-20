@@ -20,11 +20,11 @@
         <mark key="]" line="6" column="45" />
         <mark key="." line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/miwok/app/src/main/java/com/example/android/miwok/NumbersActivity.java" timestamp="1513794887694">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="28" column="24" />
+      <file name="$USER_HOME$/workspace/miwok/app/src/main/java/com/example/android/miwok/NumbersActivity.java" timestamp="1513798878306">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="26" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/PracticeSet2/app/src/main/res/layout/activity_main.xml" timestamp="1513558505173">
         <mark key="[" line="12" column="42" />
@@ -138,11 +138,11 @@
         <mark key="." line="11" column="43" />
         <mark key="^" line="11" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/miwok/app/src/main/res/layout/list_item.xml" timestamp="1513791083045">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="38" />
-        <mark key="." line="6" column="38" />
-        <mark key="^" line="6" column="38" />
+      <file name="$USER_HOME$/workspace/miwok/app/src/main/res/layout/list_item.xml" timestamp="1513798668081">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="46" />
+        <mark key="." line="17" column="46" />
+        <mark key="^" line="17" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/HappyBirthday/app/src/main/res/layout/activity_main.xml" timestamp="1513441897995">
         <mark key="[" line="32" column="29" />
@@ -162,6 +162,13 @@
         <mark key="^" line="37" column="31" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/miwok/app/src/main/java/com/example/android/miwok/WordAdapter.java" timestamp="1513798704866">
+        <mark key="c" line="39" column="17" />
+        <mark key="[" line="41" column="39" />
+        <mark key="]" line="41" column="59" />
+        <mark key="." line="41" column="59" />
+        <mark key="^" line="41" column="59" />
+      </file>
       <file name="$USER_HOME$/workspace/miwok/app/src/main/AndroidManifest.xml" timestamp="1513709557925">
         <mark key="[" line="33" column="65" />
         <mark key="]" line="33" column="88" />
@@ -173,7 +180,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1513792735700">
+      <file name="/fragment.java" timestamp="1513798178082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/miwok/app/src/main/res/layout/activity_numbers.xml" timestamp="1513788818292">
@@ -223,40 +230,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZW5nbGlzaF93b3JkX3RleHRfdmlldyIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICB3b3Jkcy5hZGQobmV3IFdvcmQoIm9uZSIsICJmdXR0aSIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkxpbmVhckxheW91dDsKaW1wb3J0IGFuZHJvaWQud2lkZ2V0Lkxpc3RBZGFwdGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICB3b3Jkcy5hZGQobmV3IFdvcmQoIm9uZSIsICJmdXR0aSIpKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkxpbmVhckxheW91dDsKaW1wb3J0IGFuZHJvaWQud2lkZ2V0Lkxpc3RBZGFwdGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICB3b3Jkcy5hZGQobmV3IFdvcmQoIm9uZSIsICJmdXR0aSIpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3Owo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHdvcmRzLmFkZCgiVHdvIik7Ci8vICAgICAgICB3b3Jkcy5hZGQoIlRocmVlIik7Ci8vICAgICAgICB3b3Jkcy5hZGQoIkZvdXIiKTsKLy8gICAgICAgIHdvcmRzLmFkZCgiRml2ZSIpOwovLyAgICAgICAgd29yZHMuYWRkKCJTaXgiKTsKLy8gICAgICAgIHdvcmRzLmFkZCgiU2V2ZW4iKTsKLy8gICAgICAgIHdvcmRzLmFkZCgiRWlnaHQiKTsKLy8gICAgICAgIHdvcmRzLmFkZCgiTmluZSIpOwovLyAgICAgICAgd29yZHMuYWRkKCJUZW4iKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczp0ZXh0PSJvbmUiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczp0ZXh0PSJsdXR0aSIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0Vmlldyhwb3NpdGlvbiwgY29udmVydFZpZXcsIHBhcmVudCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOnRvb2xzPSIiCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBXb3JkQWRhcHRlcihATm9uTnVsbCBDb250ZXh0IGNvbnRleHQsIGludCByZXNvdXJjZSwgQE5vbk51bGwgTGlzdDxXb3JkPiBvYmplY3RzKSB7CiAgICAgICAgc3VwZXIoY29udGV4dCwgcmVzb3VyY2UsIG9iamVjdHMpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBXb3JkQWRhcHRlcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZz0iIgo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkxpbmVhckxheW91dDsKaW1wb3J0IGFuZHJvaWQud2lkZ2V0Lkxpc3RBZGFwdGVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3b3Jkcwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>one</text>
       </register>
     </registers>
     <search>
@@ -278,6 +285,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
