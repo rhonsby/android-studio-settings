@@ -20,11 +20,11 @@
         <mark key="]" line="6" column="45" />
         <mark key="." line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/miwok/app/src/main/java/com/example/android/miwok/NumbersActivity.java" timestamp="1513788751486">
-        <mark key="[" line="31" column="86" />
-        <mark key="]" line="31" column="91" />
-        <mark key="." line="31" column="91" />
-        <mark key="^" line="31" column="91" />
+      <file name="$USER_HOME$/workspace/miwok/app/src/main/java/com/example/android/miwok/NumbersActivity.java" timestamp="1513791159242">
+        <mark key="[" line="31" column="84" />
+        <mark key="]" line="31" column="92" />
+        <mark key="." line="31" column="92" />
+        <mark key="^" line="31" column="92" />
       </file>
       <file name="$USER_HOME$/workspace/PracticeSet2/app/src/main/res/layout/activity_main.xml" timestamp="1513558505173">
         <mark key="[" line="12" column="42" />
@@ -38,10 +38,10 @@
         <mark key="." line="16" column="34" />
         <mark key="^" line="16" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/miwok/app/build.gradle" timestamp="1513703739855">
-        <mark key="[" line="22" column="51" />
-        <mark key="]" line="22" column="52" />
-        <mark key="." line="22" column="52" />
+      <file name="$USER_HOME$/workspace/miwok/app/build.gradle" timestamp="1513791016949">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
         <mark key="^" line="22" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/PracticeSet2/app/src/main/java/com/example/android/practiceset2/MainActivity.java" timestamp="1513558677708">
@@ -132,11 +132,11 @@
         <mark key="." line="11" column="43" />
         <mark key="^" line="11" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/miwok/app/src/main/res/layout/list_item.xml" timestamp="1513790317979">
-        <mark key="[" line="19" column="45" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-        <mark key="^" line="20" column="3" />
+      <file name="$USER_HOME$/workspace/miwok/app/src/main/res/layout/list_item.xml" timestamp="1513791083045">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+        <mark key="^" line="6" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/HappyBirthday/app/src/main/res/layout/activity_main.xml" timestamp="1513441897995">
         <mark key="[" line="32" column="29" />
@@ -220,37 +220,37 @@
         <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZW5nbGlzaF93b3JkX3RleHRfdmlldyIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOnRvb2xzPSIiCg==</text>
+        <text encoding="base64">ICAgICAgICB0b29sczp0ZXh0PSJvbmUiCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>foo</text>
+        <text>simple_list_item_1</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b29sczp0ZXh0PSJsdXR0aSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZz0iIgo=</text>
+        <text encoding="base64">ICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3b3Jkcwo=</text>
+        <text encoding="base64">ICAgIHhtbG5zOnRvb2xzPSIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaW5kZXggPSAwOwogICAgICAgIExpbmVhckxheW91dCByb290VmlldyA9IChMaW5lYXJMYXlvdXQpIGZpbmRWaWV3QnlJZChSLmlkLnJvb3Rfdmlldyk7CgogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgd29yZHMuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgVGV4dFZpZXcgd29yZFZpZXcgPSBuZXcgVGV4dFZpZXcodGhpcyk7CiAgICAgICAgICAgIHdvcmRWaWV3LnNldFRleHQod29yZHMuZ2V0KGluZGV4KSk7CiAgICAgICAgICAgIHJvb3RWaWV3LmFkZFZpZXcod29yZFZpZXcpOwogICAgICAgICAgICBpbmRleCsrOwogICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgd29yZHNTaXplID0gd29yZHMuc2l6ZSgpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoaW5kZXggPCB3b3Jkc1NpemUpIHsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZz0iIgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB3b3Jkcwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgaW5kZXggPSAwOwogICAgICAgIExpbmVhckxheW91dCByb290VmlldyA9IChMaW5lYXJMYXlvdXQpIGZpbmRWaWV3QnlJZChSLmlkLnJvb3Rfdmlldyk7CgogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgd29yZHMuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgVGV4dFZpZXcgd29yZFZpZXcgPSBuZXcgVGV4dFZpZXcodGhpcyk7CiAgICAgICAgICAgIHdvcmRWaWV3LnNldFRleHQod29yZHMuZ2V0KGluZGV4KSk7CiAgICAgICAgICAgIHJvb3RWaWV3LmFkZFZpZXcod29yZFZpZXcpOwogICAgICAgICAgICBpbmRleCsrOwogICAgICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGV4dFZpZXcgd29yZFZpZXcgPSBuZXcgVGV4dFZpZXcodGhpcyk7CiAgICAgICAgICAgIHdvcmRWaWV3LnNldFRleHQod29yZHMuZ2V0KGluZGV4KSk7CiAgICAgICAgICAgIHJvb3RWaWV3LmFkZFZpZXcod29yZFZpZXcpOwogICAgICAgICAgICBpbmRleCsrOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgd29yZHNTaXplID0gd29yZHMuc2l6ZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>foo</text>
+        <text>simple_list_item_1</text>
       </register>
     </registers>
     <search>
