@@ -44,8 +44,9 @@
         <mark key="." line="39" column="3" />
         <mark key="^" line="39" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/miwok/app/build.gradle" timestamp="1513879149127">
-        <mark key="^" line="3" column="21" />
+      <file name="$USER_HOME$/workspace/miwok/app/build.gradle" timestamp="1513885578853">
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/PracticeSet2/app/src/main/java/com/example/android/practiceset2/MainActivity.java" timestamp="1513558677708">
         <mark key="[" line="17" column="45" />
@@ -83,7 +84,7 @@
         <mark key="^" line="32" column="16" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513813954461">
+      <file name="/Dummy.txt" timestamp="1513887121403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -130,10 +131,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/miwok/app/src/main/res/layout/activity_main.xml" timestamp="1513709169803">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/workspace/miwok/app/src/main/res/layout/activity_main.xml" timestamp="1513886863398">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="70" />
+        <mark key="." line="28" column="46" />
+        <mark key="^" line="28" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/FavoriteToys/app/src/main/res/layout/activity_main.xml" timestamp="1511926490512">
         <mark key="[" line="11" column="28" />
@@ -141,11 +143,11 @@
         <mark key="." line="11" column="43" />
         <mark key="^" line="11" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/miwok/app/src/main/res/layout/list_item.xml" timestamp="1513811778162">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="47" />
+      <file name="$USER_HOME$/workspace/miwok/app/src/main/res/layout/list_item.xml" timestamp="1513887037800">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="46" />
+        <mark key="^" line="14" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/HappyBirthday/app/src/main/res/layout/activity_main.xml" timestamp="1513441897995">
         <mark key="[" line="32" column="29" />
@@ -159,11 +161,10 @@
         <mark key="." line="67" column="81" />
         <mark key="^" line="67" column="81" />
       </file>
-      <file name="$USER_HOME$/workspace/miwok/app/src/main/res/layout/activity_words.xml" timestamp="1513810945003">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="4" column="44" />
-        <mark key="." line="4" column="44" />
-        <mark key="^" line="4" column="44" />
+      <file name="$USER_HOME$/workspace/miwok/app/src/main/res/layout/activity_words.xml" timestamp="1513886609039">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/JustJava/app/src/main/res/layout/activity_main.xml" timestamp="1513575530930">
         <mark key="[" line="37" column="0" />
@@ -182,12 +183,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/miwok/app/src/main/java/com/example/android/miwok/WordAdapter.java" timestamp="1513879638561">
-        <mark key="c" line="75" column="17" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="114" column="58" />
+      <file name="$USER_HOME$/workspace/miwok/app/src/main/java/com/example/android/miwok/WordAdapter.java" timestamp="1513887073920">
+        <mark key="c" line="76" column="17" />
+        <mark key="'" line="78" column="21" />
+        <mark key="[" line="90" column="8" />
+        <mark key="]" line="90" column="27" />
+        <mark key="." line="90" column="27" />
+        <mark key="^" line="90" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/miwok/app/src/main/AndroidManifest.xml" timestamp="1513709557925">
         <mark key="[" line="33" column="65" />
@@ -267,43 +269,46 @@
       <jump line="39" column="0" filename="$USER_HOME$/workspace/miwok/app/src/main/java/com/example/android/miwok/FamilyActivity.java" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/miwok/app/src/main/java/com/example/android/miwok/PhrasesActivity.java" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/miwok/app/src/main/java/com/example/android/miwok/PhrasesActivity.java" />
+      <jump line="4" column="3" filename="$USER_HOME$/workspace/miwok/app/src/main/res/layout/list_item.xml" />
+      <jump line="18" column="7" filename="$USER_HOME$/workspace/miwok/app/src/main/res/layout/list_item.xml" />
+      <jump line="77" column="21" filename="$USER_HOME$/workspace/miwok/app/src/main/java/com/example/android/miwok/WordAdapter.java" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG1lZGlhUGxheWVyICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1lZGlhUGxheWVyLnBhdXNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>clickableFrameLayout</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90ZXh0X2xpbmVhcl9sYXlvdXQiCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>textLinearLayout</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXVkaW9NYW5hZ2VyLmFiYW5kb25BdWRpb0ZvY3VzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9Ij9hbmRyb2lkOmF0dHIvc2VsZWN0YWJsZUl0ZW1CYWNrZ3JvdW5kIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOnBhZGRpbmdMZWZ0PSIxNmRwIgogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdGV4dF9saW5lYXJfbGF5b3V0IgogICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXJfdmVydGljYWwiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiPgoKICAgICAgICA8TGluZWFyTGF5b3V0CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMSIKICAgICAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiCiAgICAgICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+CgogICAgICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgICAgIHRvb2xzOnRleHQ9ImZ1dHRpIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfdG9SaWdodE9mPSJAaWQvaXRlbV9pbWFnZV92aWV3IgogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U3R5bGU9ImJvbGQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxOHNwIgogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL3doaXRlIgogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9taXdva193b3JkX3RleHRfdmlldyIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIC8+CgogICAgICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgICAgIHRvb2xzOnRleHQ9Im9uZSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3RvUmlnaHRPZj0iQGlkL2l0ZW1faW1hZ2VfdmlldyIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAaWQvbWl3b2tfd29yZF90ZXh0X3ZpZXciCiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2RlZmF1bHRfd29yZF90ZXh0X3ZpZXciCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxOHNwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgLz4KICAgICAgICA8L0xpbmVhckxheW91dD4KCiAgICAgICAgPEltYWdlVmlldwogICAgICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2ljX3BsYXlfYXJyb3dfd2hpdGVfMjRkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luUmlnaHQ9IjE2ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjI0ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMjRkcCIgLz4KICAgIDwvTGluZWFyTGF5b3V0PgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBdWRpb01hbmFnZXIgYXVkaW9NYW5hZ2VyID0gKEF1ZGlvTWFuYWdlcikgZ2V0Q29udGV4dCgpLmdldFN5c3RlbVNlcnZpY2UoZ2V0Q29udGV4dCgpLkFVRElPX1NFUlZJQ0UpOwo=</text>
+        <text encoding="base64">PEZyYW1lTGF5b3V0PjwvRnJhbWVMYXlvdXQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEF1ZGlvTWFuYWdlciBhdWRpb01hbmFnZXIgPSAoQXVkaW9NYW5hZ2VyKSBnZXRDb250ZXh0KCkuZ2V0U3lzdGVtU2VydmljZShnZXRDb250ZXh0KCkuQVVESU9fU0VSVklDRSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmF0dHIvIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSI/YW5kcm9pZDphdHRyL3NlbGVjdGFibGVJdGVtQmFja2dyb3VuZCItLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbGVhc2VNZWRpYVBsYXllcigpOwogICAgICAgICAgICAgICAgbWVkaWFQbGF5ZXIgPSBNZWRpYVBsYXllci5jcmVhdGUoZ2V0Q29udGV4dCgpLCB3b3JkLmdldFNvdW5kUmVzb3VyY2VJZCgpKTsKICAgICAgICAgICAgICAgIG1lZGlhUGxheWVyLnN0YXJ0KCk7CiAgICAgICAgICAgICAgICBtZWRpYVBsYXllci5zZXRPbkNvbXBsZXRpb25MaXN0ZW5lcihvbkNvbXBsZXRpb25MaXN0ZW5lcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmRyYXcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QXVkaW9NYW5hZ2VyIA==</text>
+        <text>textLinearLayout</text>
       </register>
     </registers>
     <search>
