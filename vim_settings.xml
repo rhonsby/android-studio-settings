@@ -57,6 +57,12 @@
         <mark key="." line="11" column="43" />
         <mark key="^" line="11" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/miwok/app/src/main/res/values/styles.xml" timestamp="1514155860395">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="77" />
+        <mark key="." line="25" column="75" />
+        <mark key="^" line="25" column="75" />
+      </file>
       <file name="$USER_HOME$/workspace/ud851-Exercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/build.gradle" timestamp="1511928741794">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -72,12 +78,6 @@
         <mark key="]" line="32" column="31" />
         <mark key="." line="32" column="31" />
         <mark key="^" line="32" column="31" />
-      </file>
-      <file name="$USER_HOME$/workspace/android_hello_world/SimpleTodo/app/src/main/java/com/example/honsby/simpletodo/MainActivity.java" timestamp="1511749780837">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="21" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/JustJava/app/src/main/res/layout/activity_main.xml" timestamp="1513575530930">
         <mark key="[" line="37" column="0" />
@@ -102,7 +102,11 @@
         <mark key="." line="65" column="29" />
         <mark key="^" line="65" column="76" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/platforms/android-26/android.jar!/java/util/HashMap.class" timestamp="1513552602045" />
+      <file name="$USER_HOME$/workspace/miwok/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" timestamp="1514155866454">
+        <mark key="[" line="1354" column="0" />
+        <mark key="]" line="1354" column="0" />
+        <mark key="." line="1354" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/JustJava/app/src/main/res/values/styles.xml" timestamp="1513575948748">
         <mark key="[" line="6" column="45" />
         <mark key="]" line="6" column="45" />
@@ -119,12 +123,6 @@
         <mark key="]" line="16" column="34" />
         <mark key="." line="16" column="34" />
         <mark key="^" line="16" column="34" />
-      </file>
-      <file name="$USER_HOME$/workspace/android_hello_world/SimpleTodo/app/build.gradle" timestamp="1511749624980">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/PracticeSet2/app/src/main/java/com/example/android/practiceset2/MainActivity.java" timestamp="1513558677708">
         <mark key="[" line="17" column="45" />
@@ -173,40 +171,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRTaXplIj4xNXNwPC9pdGVtPgo=</text>
+        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJNaXdva0FwcEJhclN0eWxlIiBwYXJlbnQ9IkBzdHlsZS9XaWRnZXQuQXBwQ29tcGF0LkFjdGlvbkJhciI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0QWxsQ2Fwcz0idHJ1ZSIK</text>
+        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJNaXdva0FwcEJhclN0eWxlIiBwYXJlbnQ9InN0eWxlL1dpZGdldC5BcHBDb21wYXQuTGlnaHQuQWN0aW9uQmFyLlNvbGlkLkludmVyc2UiPgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJNaXdva0FwcEJhclN0eWxlIiBwYXJlbnQ9InN0eWxlL1dpZGdldC5BcHBDb21wYXQuTGlnaHQuQWN0aW9uQmFyLlNvbGlkLkludmVyc2UiPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0QWxsQ2Fwcz0idHJ1ZSIK</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0QWxsQ2Fwcz0idHJ1ZSIK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRDb2xvciI+I2FhZmZlZTwvaXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnR5cGVmYWNlIj5tb25vc3BhY2U8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDp0ZXh0U2l6ZSI+MTZzcDwvaXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRDb2xvciI+I2FhZmZlZTwvaXRlbT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRDb2xvciI+IzU1MWE4YjwvaXRlbT4KICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnR5cGVmYWNlIj5tb25vc3BhY2U8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDp0ZXh0U2l6ZSI+MTZzcDwvaXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnR5cGVmYWNlIj5tb25vc3BhY2U8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDp0ZXh0U2l6ZSI+MTZzcDwvaXRlbT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0QXBwZWFyYW5jZT0iQHN0eWxlL0hlYWRlciIK</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnRleHRDb2xvciI+IzU1MWE4YjwvaXRlbT4KICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOnR5cGVmYWNlIj5tb25vc3BhY2U8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDp0ZXh0U2l6ZSI+MTZzcDwvaXRlbT4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0QXBwZWFyYW5jZT0iQHN0eWxlL0hlYWRlciIK</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>Widget.AppCompat.Light.ActionBar.Solid.Inverse</text>
       </register>
     </registers>
     <search>
